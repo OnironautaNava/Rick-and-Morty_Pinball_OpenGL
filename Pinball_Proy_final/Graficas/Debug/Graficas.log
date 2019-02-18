@@ -1,0 +1,34 @@
+﻿  texture.cpp
+f:\documents\compu gráfica\rick-and-morty_pinball_opengl\pinball_proy_final\graficas\texture.cpp(12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: vea la declaración de 'fopen'
+f:\documents\compu gráfica\rick-and-morty_pinball_opengl\pinball_proy_final\graficas\texture.cpp(48): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: vea la declaración de 'strcpy'
+f:\documents\compu gráfica\rick-and-morty_pinball_opengl\pinball_proy_final\graficas\texture.cpp(84): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: vea la declaración de 'fopen'
+  Pinball.cpp
+f:\documents\compu gráfica\rick-and-morty_pinball_opengl\pinball_proy_final\graficas\pinball.cpp(102): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+f:\documents\compu gráfica\rick-and-morty_pinball_opengl\pinball_proy_final\graficas\pinball.cpp(103): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+f:\documents\compu gráfica\rick-and-morty_pinball_opengl\pinball_proy_final\graficas\pinball.cpp(104): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+f:\documents\compu gráfica\rick-and-morty_pinball_opengl\pinball_proy_final\graficas\pinball.cpp(108): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+f:\documents\compu gráfica\rick-and-morty_pinball_opengl\pinball_proy_final\graficas\pinball.cpp(1416): warning C4476: 'printf' : carácter de tipo desconocido '.' en el especificador de formato
+f:\documents\compu gráfica\rick-and-morty_pinball_opengl\pinball_proy_final\graficas\pinball.cpp(1416): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
+  f:\documents\compu gráfica\rick-and-morty_pinball_opengl\pinball_proy_final\graficas\pinball.cpp(1416): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 3
+f:\documents\compu gráfica\rick-and-morty_pinball_opengl\pinball_proy_final\graficas\pinball.cpp(1440): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: vea la declaración de 'sprintf'
+  figuras.cpp
+f:\documents\compu gráfica\rick-and-morty_pinball_opengl\pinball_proy_final\graficas\figuras.cpp(603): warning C4101: 'theta': variable local sin referencia
+f:\documents\compu gráfica\rick-and-morty_pinball_opengl\pinball_proy_final\graficas\figuras.cpp(603): warning C4101: 'phi': variable local sin referencia
+f:\documents\compu gráfica\rick-and-morty_pinball_opengl\pinball_proy_final\graficas\figuras.cpp(1202): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+  Camera.cpp
+  Generando código...
+CModel.lib(_3dsloader.obj) : warning LNK4099: no se encontró PDB 'vc70.pdb' con 'CModel.lib(_3dsloader.obj)' o en 'F:\Documents\Compu Gráfica\Rick-and-Morty_Pinball_OpenGL\Pinball_Proy_final\Debug\vc70.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+CModel.lib(CModel.obj) : warning LNK4099: no se encontró PDB 'vc70.pdb' con 'CModel.lib(CModel.obj)' o en 'F:\Documents\Compu Gráfica\Rick-and-Morty_Pinball_OpenGL\Pinball_Proy_final\Debug\vc70.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+CModel.lib(CObject.obj) : warning LNK4099: no se encontró PDB 'vc70.pdb' con 'CModel.lib(CObject.obj)' o en 'F:\Documents\Compu Gráfica\Rick-and-Morty_Pinball_OpenGL\Pinball_Proy_final\Debug\vc70.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+CModel.lib(GFILoader.obj) : warning LNK4099: no se encontró PDB 'vc70.pdb' con 'CModel.lib(GFILoader.obj)' o en 'F:\Documents\Compu Gráfica\Rick-and-Morty_Pinball_OpenGL\Pinball_Proy_final\Debug\vc70.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+CModel.lib(GLRender.obj) : warning LNK4099: no se encontró PDB 'vc70.pdb' con 'CModel.lib(GLRender.obj)' o en 'F:\Documents\Compu Gráfica\Rick-and-Morty_Pinball_OpenGL\Pinball_Proy_final\Debug\vc70.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+CModel.lib(HandleStream.obj) : warning LNK4099: no se encontró PDB 'vc70.pdb' con 'CModel.lib(HandleStream.obj)' o en 'F:\Documents\Compu Gráfica\Rick-and-Morty_Pinball_OpenGL\Pinball_Proy_final\Debug\vc70.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+CModel.lib(imageload.obj) : warning LNK4099: no se encontró PDB 'vc70.pdb' con 'CModel.lib(imageload.obj)' o en 'F:\Documents\Compu Gráfica\Rick-and-Morty_Pinball_OpenGL\Pinball_Proy_final\Debug\vc70.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+CModel.lib(MATRIX4X4.obj) : warning LNK4099: no se encontró PDB 'vc70.pdb' con 'CModel.lib(MATRIX4X4.obj)' o en 'F:\Documents\Compu Gráfica\Rick-and-Morty_Pinball_OpenGL\Pinball_Proy_final\Debug\vc70.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+CModel.lib(VECTOR3D.obj) : warning LNK4099: no se encontró PDB 'vc70.pdb' con 'CModel.lib(VECTOR3D.obj)' o en 'F:\Documents\Compu Gráfica\Rick-and-Morty_Pinball_OpenGL\Pinball_Proy_final\Debug\vc70.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+CModel.lib(VECTOR4D.obj) : warning LNK4099: no se encontró PDB 'vc70.pdb' con 'CModel.lib(VECTOR4D.obj)' o en 'F:\Documents\Compu Gráfica\Rick-and-Morty_Pinball_OpenGL\Pinball_Proy_final\Debug\vc70.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  Graficas.vcxproj -> F:\Documents\Compu Gráfica\Rick-and-Morty_Pinball_OpenGL\Pinball_Proy_final\Debug\Graficas.exe
